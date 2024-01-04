@@ -1,0 +1,610 @@
+.body{background-color: #001F3F;}
+
+.topnav{
+    background-color: #C0C0C0;
+    overflow: hidden;
+}
+
+.topnav a{
+    color: #B22222 ;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 20px;
+ }
+
+ .topnav a:hover{
+    background-color:#FFD700;
+    color: #B22222;
+ }
+
+ .topnav a.active{
+    background-color: #FFD700;
+    color: white;
+ }
+
+ .topnavleft a{
+    float: left;
+ }
+
+ .topnavright a{
+    float: right;
+ }
+
+ .topnavimg{
+    float: left;
+ }
+
+ .gamestxt{
+    color: #FFD700;
+    font-size: 50px;
+    margin-top: 10PX;
+    margin-left: 15px;
+ }
+
+ #texasholdem{
+    float: left;
+    margin-top: 10px;
+    margin-left: 40px;
+    border: white solid 5px;
+    border-radius: 20px;
+ }
+
+ #spanish21{
+    margin-top: 10px;
+    margin-left: 40px;
+    border: white solid 5px;
+    border-radius: 20px;
+    width: 30%;
+    height: 260px;
+ }
+
+ #carddraw{
+    margin-top: 10px;
+    margin-left: 40px;
+    border: white solid 5px;
+    border-radius: 20px;
+    width: 30%;
+    height: 260px;
+ }
+
+ #more{
+    float: right;
+    font-size: 20px;
+    color: #FFD700;
+    margin-right: 10px;
+ }
+
+ #more:hover{
+    color: white;
+ }
+
+ .aboutustxt{
+    color: #FFD700;
+    font-size: 50px;
+    margin-left: 10px;
+    margin-top: 15px;
+ }
+
+ #Aboutustxt{
+    color: white;
+    margin-left: 15px;
+    margin-top: 10px;
+ }
+
+ .contactus{
+    color: #FFD700;
+    font-size: 50px ;
+    float: left;
+    margin-top: 20px;
+    margin-left: 15px;
+    font-weight: bold;
+ }
+
+ #contacttxt{
+    font-size: 40px;
+    font-weight: bolder;
+    color: white;
+    float: left;
+    margin-top:20px ;
+    margin-left: 30px;
+ }
+
+ #Contacttxt{
+    color: white;
+    font-size: 20px;
+    float: left;
+    margin-top: 20px;
+    padding-right: 50px;
+    padding-left: 30px;
+ }
+
+ #customersup{
+    font-size: 30px;
+    font-weight: bold;
+    color: white;
+    margin-top: 30px;
+    padding-right: 70px;
+    padding-left: 30px;
+    padding-top: 25px;
+ }
+
+ #bold{
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+ }
+
+ ul{
+    padding-top: 10px;
+ }
+
+ li{
+    font-size: 20px;
+    color: white;
+ }
+
+ .business{
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+    margin-left: 30px;
+    padding-top: 15px;
+ }
+
+ #businesstxt{
+    color: white;
+    font-size: 20px;
+    margin-left: 30px ;
+ }
+
+ .Openinghrs{
+    color: white;
+    font-weight: bold;
+    font-size: 30px;
+    padding-top: 20px;
+    margin-left: 30px;
+ }
+
+ #openingHrs{
+    color: white;
+    font-size: 20px;
+    margin-left: 30px;
+    padding-top: 10px;
+ }
+
+ #openinghrs{
+    color: white;
+    font-size: 20px;
+    margin-left: 30px;
+    padding-top: 10px;
+ }
+
+ .Aboutus{
+    color: #FFD700;
+    font-size: 50px ;
+    float: left;
+    margin-top: 20px;
+    margin-left: 15px;
+    font-weight: bold;
+ }
+
+ .Ourstory{
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+    float: left;
+    padding-left: 20px;
+ }
+
+ #ourstorytxt{
+    color: white;
+    font-size: 20px;
+    padding-left: 20px;
+ }
+
+ .Ourmission{
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+    padding-left: 20px;
+ }
+
+ #ourmissiontxt{
+    color: white;
+    font-size: 20px;
+    padding-left: 20px;
+ }
+
+ .journey{
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+    padding-left: 20px;
+ }
+
+ #journeytxt{
+    color: white;
+    font-size: 20px;
+    padding-left: 20px;
+ }
+
+ #texasholdem2{
+   margin-left: 40px;
+   border: white solid 5px;
+   border-radius: 20px;
+   width: 30%;
+   height: 170px;
+ }
+
+ #Spanish21{
+   margin-left: 40px;
+   border: white solid 5px;
+   border-radius: 20px;
+   width: 30%;
+   height: 170px;
+ }
+
+#Carddraw{
+   margin-left: 40px;
+   border: white solid 5px;
+   border-radius: 20px;
+   width: 30%;
+   height: 170px;
+}
+
+ #paigow{
+    margin-top: 10px;
+    margin-left: 40px;
+    border: white solid 5px;
+    border-radius: 20px;
+    width: 30%;
+    height: 170px;
+ }
+
+ #Blackjack{
+    margin-top: 10px;
+    margin-left: 40px;
+    border: white solid 5px;
+    border-radius: 20px;
+    width: 30%;
+    height: 170px;
+ }
+
+ #poker{
+    margin-top: 10px;
+    margin-left: 40px;
+    border: white solid 5px;
+    border-radius: 20px;
+    width: 30%;
+    height: 170px;
+ }
+
+ #baccarat{
+    margin-top: 10px;
+    margin-left: 40px;
+    border: white solid 5px;
+    border-radius: 20px;
+    width: 30%;
+    height: 170px;
+ }
+
+ #Rummy{
+    margin-top: 10px;
+    margin-left: 40px;
+    border: white solid 5px;
+    border-radius: 20px;
+    width: 30%;
+    height: 170px;
+    float: right;
+    margin-right: 20px;
+ }
+
+ .texas{
+   float: left;
+   margin-left: 400px;
+ }
+
+ .spanish{
+   float: left;
+   margin-left: 430px;
+ }
+
+ .draw{
+   float: right;
+   margin-right: 50px;
+ }
+
+ .pgpoker{
+   float: left;
+   margin-left: 400px;
+ }
+
+.black{
+   float: left;
+   margin-left: 430px;
+}
+
+ .Poker{
+   float: right;
+   margin-right: 50px;
+ }
+
+ .Baccarat{
+   margin-left: 400px;
+ }
+
+ .rummy{
+   float: right;
+   margin-right: 50px;
+ }
+
+ .Login{
+    background-color: white;
+    width: 25%;
+    height: 400px;
+    margin-top: 100px;
+    margin-left: 600px ;
+    border-radius: 20px;
+ }
+
+ #login{
+    color: black;
+    padding-top: 10px;
+    padding-left: 160px;
+    font-weight: bold;
+ }
+
+ #user{
+    padding-left: 70px;
+    padding-top: 70px;
+}
+
+#Username{
+   border-radius: 5px;
+}
+
+#password{
+    padding-left: 70px;
+    padding-top: 30px;
+}
+
+#Password{
+   border-radius: 5px;
+}
+
+#remembertxt{
+   margin-left: 40px;
+   margin-top: 50px;
+   width: 180px;
+   float: left;
+}
+
+
+#Forgot{
+   float: right;
+   margin-top: 50px;
+   padding-right: 10px;
+   text-align:right;
+   width: 150px;
+}
+
+#loginbutton{
+   padding-left: 160px;
+   padding-top: 80px;
+}
+
+.Signup{
+   background-color: white;
+   width: 98%;
+    height: 625px;
+    margin-top: 10px;
+    margin-left: 15px ;
+    border-radius: 20px;
+}
+
+#signup{
+   color: black;
+   margin-top: 50px;
+   margin-left: 700px;
+   font-weight: bold;
+   font-size: 20px;
+}
+
+.fname{
+   float: left;
+   margin-left: 450px;
+   margin-top: 40px;
+}
+
+.lname{
+   float: right;
+   margin-top: 40px;
+   margin-right: 400px;
+}
+
+#fname{
+   width: 300px;
+   border-radius: 5px;
+}
+
+#lname{
+   width: 300px;
+   border-radius: 5px;
+}
+
+span{
+   display: block;
+   margin: 0 0 3px;
+   font-size: 1.2em;
+   font-weight: bold;
+}
+
+input{
+   width: 200px;
+   border: 1px solid black;
+   padding: 5px;
+   text-align: left;
+}
+
+.email{
+   float: left;
+   margin-left: 450px;
+   margin-top: 40px;
+}
+
+#email{
+   width: 610px;
+   border-radius: 5px;
+}
+
+.phoneNum{
+   float: left;
+   margin-left: 450px;
+   margin-top: 35px;
+}
+
+#phonenum{
+   width: 300px;
+   border-radius: 5px;
+}
+
+.Password{
+   float: left;
+   margin-right: 465px;
+   margin-top: 40px;
+   margin-left: 450px;
+}
+
+#password{
+   width: 300px;
+   height: 30px;
+   border-radius: 5px;
+}
+
+.submit{
+   float: left;
+   margin-right: 465px;
+   margin-top: 40px;
+   margin-left: 450px;
+}
+
+input:invalid{
+   border: 2px dashed red;
+   border-radius: 5px;
+   }
+
+input:valid{
+   border: 2px solid #4CAF50;
+   color: green;
+   border-radius: 5px;
+   }
+
+.Texasbg{
+   background-image: url(/Images/texas\ holdem.jpg);
+}
+
+.Spanishbg{
+   background-image: url(/Images/spanish\ 21.jpeg);
+}
+
+.Carddrawbg{
+   background-image: url(/Images/5\ card\ draw.jpg);
+}
+
+.Paigowbg{
+   background-image: url(/Images/pai\ gow\ poker.png);
+}
+
+.Bjackbg{
+   background-image: url(/Images/blackjack\ logo.png);
+}
+
+.Pokerbg{
+   background-image: url(/Images/poker\ logo.jpg);
+}
+
+.Baccaratbg{
+   background-image: url(/Images/baccarat\ logo.jpg);
+}
+
+.Rummybg{
+   background-image: url(/Images/rummy.png);
+}
+
+#gametable{
+   float: left;
+   width: 33%;
+   height: 300px;
+}
+
+#casino{
+   width: 34%;
+   height: 300px;
+   padding-left: 2px;
+}
+
+#chips{
+   float: right;
+   width: 33%;
+   height: 300px;
+}
+
+#money{
+   float: left;
+   width: 33%;
+   height: 300px;
+}
+
+#mixgambling{
+   width: 34%;
+   height: 300px;
+   padding-left: 2px;
+}
+
+#slot{
+   float: right;
+   width: 33%;
+   height: 300px;
+}
+
+#slot2{
+   float: left;
+   width: 33%;
+   height: 300px;
+}
+
+#wheel{
+   width: 34%;
+   height: 300px;
+   padding-left: 2px;
+}
+
+#playingcards{
+   float: right;
+   width: 33%;
+   height: 300px;
+}
+
+@media only screen and (min-width: 600px) {
+   /* For tablets: */
+   .col-s-1 {width: 8.33%;}
+   .col-s-2 {width: 16.66%;}
+   .col-s-3 {width: 25%;}
+   .col-s-4 {width: 33.33%;}
+   .col-s-5 {width: 41.66%;}
+   .col-s-6 {width: 50%;}
+   .col-s-7 {width: 58.33%;}
+   .col-s-8 {width: 66.66%;}
+   .col-s-9 {width: 75%;}
+   .col-s-10 {width: 83.33%;}
+   .col-s-11 {width: 91.66%;}
+   .col-s-12 {width: 100%;}
+ }
+
+ @media only screen and (max-width: 768px) {
+   /* For mobile phones: */
+   [class*="col-"] {
+     width: 100%;
+   }
+ }
